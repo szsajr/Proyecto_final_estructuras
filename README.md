@@ -6,6 +6,7 @@ Como nace: AsisRevi surge de la necesidad de monitorear la temperatura de trabaj
 
 De que se trata:Se trata de un circuito implementado en una tarjeta de desarrollo de la familia STM de bajo consumo, específicamente la Nucleo L476RG, diseñado para medir la temperatura de un cautín y/o pistola de calor mediante un sensor LM35. La lectura de la temperatura se muestra en una pantalla OLED SSD1306 y se transmite vía Wi-Fi utilizando el módulo ESP8266. Para encender la estación YAXUN 702A, el usuario debe autenticarse ingresando una clave a través de un teclado Keypad. En futuras versiones, el LM35 será sustituido por una termocupla o un sensor de temperatura con mejores características, lo que permitirá mejorar tanto la precisión como el rendimiento del sistema.
 
+[Diagram de bloques](https://github.com/szsajr/Proyecto_final_estructuras/blob/main/NUCLEO%20L476RG%20(1).pdf)
 
 
 
